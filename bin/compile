@@ -34,7 +34,7 @@ function indent() {
 
 # config
 VERSION_FIREFOX=57.0.1
-LANG=en-US
+LANG=pt-BR
 PLATFORM=linux64
 
 VERSION_GECKODRIVER=0.19.1
