@@ -33,7 +33,7 @@ function indent() {
 }
 
 # config
-VERSION_FIREFOX=57.0.1
+VERSION_FIREFOX=81.0
 LANG=pt-BR
 PLATFORM=linux64
 
